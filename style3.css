@@ -113,7 +113,7 @@ input[type=button] {width: auto; overflow: visible;}
 .clearfix { zoom: 1; }
 
 @font-face {
-  font-family: 'Perfect';
+  font-family: 'press start 2P';
   src: url('fonts/Perfect.eot');
   src: local('?'), url('fonts/Perfect.woff') format('woff'), url('fonts/Perfect.ttf') format('truetype'), url('fonts/Perfect.svg') format('svg');
   font-weight: normal;

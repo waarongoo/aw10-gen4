@@ -69,7 +69,7 @@ $(document).ready(function () {
 			}			
 		}
 		if(e.which == 13) { //enter
-			window.open("/bios.html","_self");
+			window.open("/biosinstall.html","_self");
 		}
 		if(e.which == 112) { //F1
 			
@@ -81,7 +81,7 @@ $(document).ready(function () {
 			
 		}
 		if(e.which == 120) { //F9
-			window.open("/bios.html","_self");
+			window.open("/biosinstall.html","_self");
 		}		
 	});	
 	setTime();	
